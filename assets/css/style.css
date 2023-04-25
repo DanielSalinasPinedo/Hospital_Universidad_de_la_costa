@@ -173,11 +173,14 @@ h6 {
 #header .logo a {
   color: #2c4964;
 }
-
-#header .logo img {
-  max-height: 40px;
+#logo-uc{
+  max-height: 200px;
+  max-width: 200px;
 }
 
+#header .logo img {
+  max-height: 60px;
+}
 /**
 * Appointment Button *
 */
