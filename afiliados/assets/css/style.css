@@ -165,7 +165,7 @@ h6 {
 #header {
   background: #fff;
   transition: all 0.5s;
-  z-index: 997;
+  z-index: 400;
   padding: 15px 0;
   top: 40px;
   box-shadow: 0px 2px 15px rgba(25, 119, 204, 0.1);
